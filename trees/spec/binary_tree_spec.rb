@@ -12,9 +12,9 @@ describe BinaryTree do
 
   # to implement:
 
-  # let(:tree) do
-  #   bt.call(00)
-  # end
+  let(:tree) do
+    bt.call(00)
+  end
 
   # where tree is your local variable
 
